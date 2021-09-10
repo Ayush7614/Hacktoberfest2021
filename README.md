@@ -89,7 +89,7 @@ You can refer to the following articles on the basics of Git and Github and also
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)
 [![Open Source Love svg2](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/)
 
-- Take a look at the Projects[Projects](https://github.com/Ayush7614/-Hacktoberfest2021/blob/master/Projects.md)!
+- Take a look at the [Projects](https://github.com/Ayush7614/-Hacktoberfest2021/blob/master/Projects.md)!
 - In the Projects go in the issue section and ask for working     
 - Wait for the Issue to be assigned to you after which you can start working on it.
 - Fork the Repo and create a Branch for any Issue that you are working upon.
