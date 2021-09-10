@@ -74,7 +74,7 @@ Hacktoberfest is the month-long event held in October, to celebrate open source 
 [![HTML](https://forthebadge.com/images/badges/uses-html.svg)](https://github.com/Ayush7614) [![css](https://forthebadge.com/images/badges/uses-css.svg)](https://github.com/Ayush7614) [![JS](https://forthebadge.com/images/badges/uses-js.svg)](https://github.com/Ayush7614)
 [![forthebadge](https://forthebadge.com/images/badges/you-didnt-ask-for-this.svg)](https://forthebadge.com)
     
-    ## ⭐ How to get started?
+ ⭐ How to get started?
 
 You can refer to the following articles on the basics of Git and Github and also contact the Project Mentors, in case you are stuck:
 
