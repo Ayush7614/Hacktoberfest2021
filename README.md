@@ -1,5 +1,10 @@
 # Hacktoberfest2021
 
+<p align="center">
+    <a href="https://github.com/Ayush7614/-Hacktoberfest2021/blob/master/assets/screenshot-hacktoberfest.digitalocean.com-2021.09.09-23_42_01.png" /></a>
+</p>
+
+
 ## What is Hacktoberfest
 
 Hacktoberfest is the month-long event held in October, to celebrate open source software. For the past seven years DigitalOcean along with its partners (including DEV) has run the campaign to promote opensource. ... (You will also receive a Hacktoberfest badge for your DEV profile when you complete the challenge.
