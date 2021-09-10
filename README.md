@@ -60,6 +60,8 @@ Hacktoberfest is the month-long event held in October, to celebrate open source 
 
 [![NETFLIX](https://forthebadge.com/images/badges/powered-by-netflix.svg)](https://github.com/vinitshahdeo) [![SMILE](https://forthebadge.com/images/badges/makes-people-smile.svg)](https://github.com/vinitshahdeo) [![BUILT WITH LOVE](https://forthebadge.com/images/badges/built-with-love.svg)](https://github.com/vinitshahdeo)
 
+[![Powered by Vercel](./assets/powered-by-vercel.svg)](https://github.com/Ayush7614/-Hacktoberfest2021/blob/master/assets/powered-by-vercel.svg)
+
 
 ```javascript
 
