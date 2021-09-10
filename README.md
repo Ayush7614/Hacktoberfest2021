@@ -23,7 +23,7 @@ Hacktoberfest is the month-long event held in October, to celebrate open source 
   
   #### [Ayush Kumar](https://www.eatmy.news/2020/06/code-like-you-eat-i-mean-code-daily-as.html)
 
-[![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/vinitshahdeo)
+[![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/Ayush7614)
 
 ## Leave a :star:
 
@@ -38,7 +38,7 @@ Hacktoberfest is the month-long event held in October, to celebrate open source 
 
 [![Hashnode blog - Ayush Kumar - Invite Link](https://img.shields.io/badge/Join%20Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white)](https://hashnode.com/@Ayush7614/joinme)
 
-[![Ayush Kumar on Dev.to](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white)](https://dev.to/) [![Ayush Kumar on Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@vinitshahdeo/) 
+[![Ayush Kumar on Dev.to](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white)](https://dev.to/) [![Ayush Kumar on Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com//) 
 
 
 
