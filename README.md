@@ -4,6 +4,26 @@
 
 Hacktoberfest is the month-long event held in October, to celebrate open source software. For the past seven years DigitalOcean along with its partners (including DEV) has run the campaign to promote opensource. ... (You will also receive a Hacktoberfest badge for your DEV profile when you complete the challenge.
 
+<p align="center">
+    <a href="https://github.com/vinitshahdeo/covid19api/blob/master/LICENSE">
+    <img alt="GitHub license"
+       src="https://img.shields.io/github/license/vinitshahdeo/covid19api?logo=github"
+    ></a> 
+    <a href="https://app.netlify.com/sites/indiafightscorona/deploys">
+    <img
+       src="https://api.netlify.com/api/v1/badges/fcfb9be7-e730-460c-8bcf-e35179e7bdcb/deploy-status" />
+    </a> 
+    <a href="https://github.com/NovelCOVID/awesome-novelcovid"><img alt="GitHub top language" src="https://awesome.re/mentioned-badge.svg"></a>
+    <a href="https://github.com/vinitshahdeo/COVID19/"><img alt="GitHub top language" src="https://img.shields.io/github/languages/top/vinitshahdeo/covid19api?logo=javascript"></a>
+  
+  #### [Ayush Kumar](https://www.eatmy.news/2020/06/code-like-you-eat-i-mean-code-daily-as.html)
+
+[![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/vinitshahdeo)
+
+## Leave a :star:
+
+
+
 ![HTML](https://img.shields.io/badge/frontend-html-orange.svg?logo=html5&style=flat-square) 
 ![CSS](https://img.shields.io/badge/frontend-css-yellowgreen.svg?logo=css3&style=flat-square)
 ![JavaScript](https://img.shields.io/badge/frontend-js-ff69b4.svg?logo=javascript&style=flat-square)
@@ -38,6 +58,9 @@ Hacktoberfest is the month-long event held in October, to celebrate open source 
 [![Think Big](https://img.shields.io/badge/Think-Big-orange.svg?style=for-the-badge)](https://github.com/Ayush7614)
 [![Work Hard](https://img.shields.io/badge/Work-Hard-blue.svg?style=for-the-badge)](https://github.com/Ayush7614)
 
+[![NETFLIX](https://forthebadge.com/images/badges/powered-by-netflix.svg)](https://github.com/vinitshahdeo) [![SMILE](https://forthebadge.com/images/badges/makes-people-smile.svg)](https://github.com/vinitshahdeo) [![BUILT WITH LOVE](https://forthebadge.com/images/badges/built-with-love.svg)](https://github.com/vinitshahdeo)
+
+
 ```javascript
 
   if (isAwesome) {
@@ -48,3 +71,16 @@ Hacktoberfest is the month-long event held in October, to celebrate open source 
 ```
 
 ******
+
+```javascript
+
+  _____ _                 _     __   __          
+ |_   _| |__   __ _ _ __ | | __ \ \ / /__  _   _ 
+   | | | '_ \ / _` | '_ \| |/ /  \ V / _ \| | | |
+   | | | | | | (_| | | | |   <    | | (_) | |_| |
+   |_| |_| |_|\__,_|_| |_|_|\_\   |_|\___/ \__,_|
+                                                 
+
+```
+
+-----------
