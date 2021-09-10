@@ -67,6 +67,12 @@ Hacktoberfest is the month-long event held in October, to celebrate open source 
 
 [![Powered by Vercel](./assets/powered-by-vercel.svg)](https://github.com/Ayush7614/-Hacktoberfest2021/blob/master/assets/powered-by-vercel.svg)
 
+[![forthebadge](https://forthebadge.com/images/badges/built-by-developers.svg)](https://forthebadge.com)
+[![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com)
+[![forthebadge](https://forthebadge.com/images/badges/built-with-swag.svg)](https://forthebadge.com)
+[![forthebadge](https://forthebadge.com/images/badges/made-with-javascript.svg)](https://forthebadge.com)
+[![HTML](https://forthebadge.com/images/badges/uses-html.svg)](https://github.com/Ayush7614) [![css](https://forthebadge.com/images/badges/uses-css.svg)](https://github.com/Ayush7614) [![JS](https://forthebadge.com/images/badges/uses-js.svg)](https://github.com/Ayush7614)
+[![forthebadge](https://forthebadge.com/images/badges/you-didnt-ask-for-this.svg)](https://forthebadge.com)
 
 ```javascript
 
