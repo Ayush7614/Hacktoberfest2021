@@ -11,6 +11,11 @@ Hacktoberfest is the month-long event held in October, to celebrate open source 
 ![PHP](https://img.shields.io/badge/backend-php-blue.svg?logo=php&style=flat-square) 
 ![MYSQL](https://img.shields.io/badge/database-mysql-lightgray.svg?logo=mysql&logoColor=white&style=flat-square) 
 
+[![Hashnode blog - Ayush Kumar - Invite Link](https://img.shields.io/badge/Join%20Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white)](https://hashnode.com/@Ayush7614/joinme)
+
+[![Ayush Kumar on Dev.to](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white)](https://dev.to/) [![Ayush Kumar on Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@vinitshahdeo/) 
+
+
 
 ## Projects for Hacktoberfest2021
 
@@ -32,3 +37,14 @@ Hacktoberfest is the month-long event held in October, to celebrate open source 
 [![Stay Motivated](https://img.shields.io/badge/Stay-Motivated-teal.svg?style=for-the-badge)](https://github.com/Ayush7614) 
 [![Think Big](https://img.shields.io/badge/Think-Big-orange.svg?style=for-the-badge)](https://github.com/Ayush7614)
 [![Work Hard](https://img.shields.io/badge/Work-Hard-blue.svg?style=for-the-badge)](https://github.com/Ayush7614)
+
+```javascript
+
+  if (isAwesome) {
+    // thanks in advance :p
+    starThisRepository();
+  }
+
+```
+
+******
