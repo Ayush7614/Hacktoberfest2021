@@ -1,7 +1,7 @@
 # Hacktoberfest2021
 
 <p align="center">
-    <a href="https://github.com/Ayush7614/-Hacktoberfest2021/blob/master/assets/screenshot-hacktoberfest.digitalocean.com-2021.09.09-23_42_01.png" /></a>
+    <a href="https://github.com/Ayush7614"><img src="https://github.com/Ayush7614/-Hacktoberfest2021/blob/master/assets/screenshot-hacktoberfest.digitalocean.com-2021.09.09-23_42_01.png" /></a>
 </p>
 
 
