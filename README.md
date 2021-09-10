@@ -9,9 +9,9 @@
 | 3. | [CheatSheet-Templates](https://github.com/Ayush7614/CheatSheet-Templates) | [Added Cheatsheets ](https://github.com/Ayush7614/CheatSheet-Templates)  | `HTML, CSS, JavaScript`  |
 | 4. | [Soomvar](https://github.com/Ayush7614/Soomvaar) | [Machine Learning and Python Scripts](https://github.com/Ayush7614/Soomvaar)  | `Python, Machine Learning` |
 | 5. | [Ayush7614/DS-ALGO-Docs](https://github.com/Ayush7614/DS-ALGO-Docs) | [Data Structures and Algorithms Docs](Ayush7614/DS-ALGO-Docs)  | `Markdown` |
-| 6. | [Face-Detection-Frontend](https://github.com/Ayush7614/Face-Detection-Frontend) | [Add some more things](https://github.com/Ayush7614/Face-Detection-Frontend)  | `HTML` `CSS`,JS  |
-| 7. | [Hackathon-Timer](https://github.com/vinitshahdeo/Hackathon-Timer) | [Use GitHub webhooks](https://github.com/vinitshahdeo/Hackathon-Timer/issues/1)  | `NodeJS`  |
-| 8. | [Cookie-Manager](https://github.com/vinitshahdeo/Cookie-Manager/) | [Prompt a confirmation before clearing all cookies](https://github.com/vinitshahdeo/Cookie-Manager/issues/5)  | `JavaScript` |
-| 9. | [Cookie-Manager](https://github.com/vinitshahdeo/Cookie-Manager/) | [Delete cookies for a single domain](https://github.com/vinitshahdeo/Cookie-Manager/issues/4) | `JavaScript`  |
-| 10. | [Cookie-Manager](https://github.com/vinitshahdeo/Cookie-Manager/) | [Display cookies based on the filter i.e. regex(say github.com)](https://github.com/vinitshahdeo/Cookie-Manager/issues/3) | `JavaScript`  |
-| 11. | [Cookie-Manager](https://github.com/vinitshahdeo/Cookie-Manager/) | [Refactor code in background.js](https://github.com/vinitshahdeo/Cookie-Manager/issues/12) | `JavaScript`  |
+| 6. | [Face-Detection-Frontend](https://github.com/Ayush7614/Face-Detection-Frontend) | [Add some more things](https://github.com/Ayush7614/Face-Detection-Frontend)  | `HTML` `CSS`,`JS`  |
+| 7. | [Etihaas](https://github.com/Ayush7614/Etihaas) | [History](Etihaas)  | `APIs`  |
+| 8. | [Score-App](https://github.com/Ayush7614/Score-App) | [Give Score](Score-App)  | `JavaScript` |
+| 9. | [php-college-form-website-project](https://github.com/Ayush7614/php-college-form-website-project) | [For Database](php-college-form-website-project) | `CSS`,`PHP`  |
+| 10. | [IPL-Predictor](https://github.com/Ayush7614/IPL-Predictor) | [Tell the Score of IPL Matches](IPL-Predictor) | `JavaScript` `APIs` |
+| 11. | [Creative-Coding](https://github.com/Ayush7614/Creative-Coding) | [Creative Code Collection](https://github.com/Ayush7614/Creative-Coding) | `JavaScript`  |
