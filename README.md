@@ -58,6 +58,17 @@ Hacktoberfest is the month-long event held in October, to celebrate open source 
 | 10. | [IPL-Predictor](https://github.com/Ayush7614/IPL-Predictor) | [Tell the Score of IPL Matches](IPL-Predictor) | `JavaScript` `APIs` |
 | 11. | [Creative-Coding](https://github.com/Ayush7614/Creative-Coding) | [Creative Code Collection](https://github.com/Ayush7614/Creative-Coding) | `JavaScript`  |
 
+    
+
+## Beginner-friendly repositories
+
+| Serial No. | Repository  | Issues  | Pull Requests  | Forks |
+|:--|:--|:--|:--|:--|
+| 1. | [Daily-Coding-DS-ALGO-Practice](https://github.com/Ayush7614/Daily-Coding-DS-ALGO-Practice)  | [![GitHub issues](https://img.shields.io/github/issues/Ayush7614/Daily-Coding-DS-ALGO-Practice?color=red&logo=github&style=flat-square)](https://github.com/Ayush7614/Daily-Coding-DS-ALGO-Practice/issues) | [![GitHub PRs](https://img.shields.io/github/issues-pr/Ayush7614/Daily-Coding-DS-ALGO-Practice?style=social&logo=github)](https://github.com/Ayush7614/Daily-Coding-DS-ALGO-Practice/pulls)  | [![GitHub forks](https://img.shields.io/github/forks/Ayush7614/Daily-Coding-DS-ALGO-Practice?style=flat-square&logo=git)](https://github.com/Ayush7614/Daily-Coding-DS-ALGO-Practice/network) |
+| 2. | [Bundli-Frontend](https://github.com/Ayush7614/Bundli-Frontend)  | [![GitHub issues](https://img.shields.io/github/issues/Ayush7614/Bundli-Frontend?color=red&logo=github&style=flat-square)](https://github.com/Ayush7614/Bundli-Frontend/issues) | [![GitHub PRs](https://img.shields.io/github/issues-pr/Ayush7614/Bundli-Frontend?style=social&logo=github)](https://github.com/Ayush7614/Bundli-Frontend/pulls)  | [![GitHub forks](https://img.shields.io/github/forks/Ayush7614/Bundli-Frontend?style=flat-square&logo=git)](https://github.com/Ayush7614/Bundli-Frontend/network) |
+| 3. | [Soomvaar](https://github.com/Ayush7614/Soomvaar)  | [![GitHub issues](https://img.shields.io/github/issues/Ayush7614/Soomvaar?color=red&logo=github&style=flat-square)](https://github.com/Ayush7614/Soomvaar/issues) | [![GitHub PRs](https://img.shields.io/github/issues-pr/Ayush7614/Soomvaar?style=social&logo=github)](https://github.com/Ayush7614/Soomvaar/pulls)  | [![GitHub forks](https://img.shields.io/github/forks/Ayush7614/Soomvaar?style=flat-square&logo=git)](https://github.com/Ayush7614/Soomvaar/network) |
+ | 4. | [CheatSheet-Templates](https://github.com/Ayush7614/CheatSheet-Templates)  | [![GitHub issues](https://img.shields.io/github/issues/Ayush7614/CheatSheet-Templates?color=red&logo=github&style=flat-square)](https://github.com/Ayush7614/CheatSheet-Templates/issues) | [![GitHub PRs](https://img.shields.io/github/issues-pr/Ayush7614/CheatSheet-Templates?style=social&logo=github)](https://github.com/Ayush7614/CheatSheet-Templates/pulls)  | [![GitHub forks](https://img.shields.io/github/forks/Ayush7614/CheatSheet-Templates?style=flat-square&logo=git)](https://github.com/Ayush7614/CheatSheet-Templates/network) |   
+    
 
 [![Stay Motivated](https://img.shields.io/badge/Stay-Motivated-teal.svg?style=for-the-badge)](https://github.com/Ayush7614) 
 [![Think Big](https://img.shields.io/badge/Think-Big-orange.svg?style=for-the-badge)](https://github.com/Ayush7614)
