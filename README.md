@@ -74,9 +74,9 @@ Hacktoberfest is the month-long event held in October, to celebrate open source 
 [![Think Big](https://img.shields.io/badge/Think-Big-orange.svg?style=for-the-badge)](https://github.com/Ayush7614)
 [![Work Hard](https://img.shields.io/badge/Work-Hard-blue.svg?style=for-the-badge)](https://github.com/Ayush7614)
 
-[![NETFLIX](https://forthebadge.com/images/badges/powered-by-netflix.svg)](https://github.com/vinitshahdeo) [![SMILE](https://forthebadge.com/images/badges/makes-people-smile.svg)](https://github.com/vinitshahdeo) [![BUILT WITH LOVE](https://forthebadge.com/images/badges/built-with-love.svg)](https://github.com/vinitshahdeo)
+[![NETFLIX](https://forthebadge.com/images/badges/powered-by-netflix.svg)](https://github.com/Ayush7614) [![SMILE](https://forthebadge.com/images/badges/makes-people-smile.svg)](https://github.com/Ayush7614) [![BUILT WITH LOVE](https://forthebadge.com/images/badges/built-with-love.svg)](https://github.com/Ayush7614)
 
-[![Powered by Vercel](./assets/powered-by-vercel.svg)](https://github.com/Ayush7614/-Hacktoberfest2021/blob/master/assets/powered-by-vercel.svg)
+[![Powered by Vercel](./assets/powered-by-v0ercel.svg)](https://github.com/Ayush7614/-Hacktoberfest2021/blob/master/assets/powered-by-vercel.svg)
 
 [![forthebadge](https://forthebadge.com/images/badges/built-by-developers.svg)](https://forthebadge.com)
 [![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com)
@@ -105,8 +105,8 @@ You can refer to the following articles on the basics of Git and Github and also
 - Wait for the Issue to be assigned to you after which you can start working on it.
 - Fork the Repo and create a Branch for any Issue that you are working upon.
 - Create a Pull Request which will be promptly reviewed and suggestions would be added to improve it.
-- Add Screenshots to help us know what this Script is all about.
-- Having difficulty in contributing? Read the [Contribution Guide](https://github.com/Ayush7614/-Hacktoberfest2021/blob/master/CONTRIBUTING.md) for a detailed explanation.
+- Add Screenshots to help us know what this is all about.
+- Having difficulty in contributing? Read the [Contribution Guide](https://github.com/Ayush7614/Hacktoberfest2021/blob/master/CONTRIBUTING.md) for a detailed explanation.
 
 
 ```javascript
