@@ -6,6 +6,7 @@
 5. [Vishal Kumar](https://github.com/vishalb52)
 
 6. [Ayush Mishra](https://github.com/ayush-sleeping)
+7. [Stuti Mongia](https://github.com/stutimongia2024)
 
 
 
