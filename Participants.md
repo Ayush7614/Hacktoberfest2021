@@ -7,6 +7,6 @@
 
 6. [Ayush Mishra](https://github.com/ayush-sleeping)
 7. [Stuti Mongia](https://github.com/stutimongia2024)
-
+8. [Bharat Tyagi]
 
 
