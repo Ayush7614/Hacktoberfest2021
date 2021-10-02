@@ -8,3 +8,4 @@
 8. [Bharat Tyagi]
 9. [Ajay Pratap Singh]
 10. [Aman Agarwal](https://github.com/Aman7614)
+11. [Anurag Pathak](https://github.com/AnuragThePathak)
