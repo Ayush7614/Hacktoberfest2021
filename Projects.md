@@ -13,3 +13,4 @@
 | 9. | [php-college-form-website-project](https://github.com/Ayush7614/php-college-form-website-project) | [For Database](php-college-form-website-project) | `CSS`,`PHP`  |
 | 10. | [IPL-Predictor](https://github.com/Ayush7614/IPL-Predictor) | [Tell the Score of IPL Matches](IPL-Predictor) | `JavaScript` `APIs` |
 | 11. | [Creative-Coding](https://github.com/Ayush7614/Creative-Coding) | [Creative Code Collection](https://github.com/Ayush7614/Creative-Coding) | `JavaScript`  |
+| 12. | [Visualization using Gapminder](https://github.com/codedoc7/Visualizing-using-Gapminder) | [Gapminder tool](https://www.gapminder.org/tools/#$chart-type=bubbles&url=v1) | `Python`,`Plotly Express`  |
